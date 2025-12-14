@@ -1,0 +1,1 @@
+exec bronze.load_bronze
